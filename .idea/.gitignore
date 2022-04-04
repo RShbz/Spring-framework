@@ -8,7 +8,7 @@
 /dataSources.local.xml
 # Zeppelin ignored files
 /ZeppelinRemoteNotebooks/
-<<<<<<< HEAD
+
 
 
 ##STS##
@@ -34,5 +34,3 @@ build/
 .iml
 *.ipr
 
-=======
->>>>>>> c046a86 (yeni proje oluştu)
