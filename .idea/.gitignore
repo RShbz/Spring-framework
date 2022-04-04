@@ -8,3 +8,28 @@
 /dataSources.local.xml
 # Zeppelin ignored files
 /ZeppelinRemoteNotebooks/
+
+
+##STS##
+.opt-generated
+.classpath
+.factorypath
+.project
+.setting
+.SpringBeans
+.sts4-cache
+
+#netBeans##
+
+/dist
+/nbdist
+/.nb-grade/
+build/
+!**/src/main/**/build/
+
+##intellij idea##
+*.idea
+*.iws
+.iml
+*.ipr
+
